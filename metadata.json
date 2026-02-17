@@ -1,0 +1,7 @@
+{
+  "name": "分镜故事版大师",
+  "description": "A professional node-based canvas for generating and editing AI storyboards using character and scene assets. Supports high-quality image generation, text-based editing, and visual asset management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
